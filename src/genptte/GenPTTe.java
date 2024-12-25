@@ -12,7 +12,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author USER
+ * @author USER (me)
  */
 public class GenPTTe extends Application {
     
